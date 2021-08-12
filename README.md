@@ -12,3 +12,7 @@
 <img width="1223" alt="v-1" src="https://user-images.githubusercontent.com/33729320/129274402-658ec14e-4ede-4f07-ad8b-ee7842b17834.png">
 
 
+**Demo Link**
+https://thepinakin.com/projects/vending-voice/
+
+
